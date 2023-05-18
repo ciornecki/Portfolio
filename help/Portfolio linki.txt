@@ -19,7 +19,7 @@ website - https://ciornecki.github.io/Power-kwidzyn/
 
 GreenScape 
 code - https://github.com/ciornecki/GreenScape
-website - ciornecki.github.io/GreenScape/
+website - https://ciornecki.github.io/GreenScape/
 
 Wordle - clone
 code - https://github.com/ciornecki/Wordle-clone
