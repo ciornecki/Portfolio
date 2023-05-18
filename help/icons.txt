@@ -3,8 +3,9 @@
 <i class='bx bxl-gmail' ></i>
 <i class='bx bxl-github' ></i>
 <i class='bx bxl-twitter' ></i>
-<i class='bx bx-world'></i>
+<i class='bx bx-globe'></i>
 <i class='bx bxl-messenger'></i>
 
 <i class='bx bx-sun' ></i>
 <i class='bx bx-moon' ></i>
+

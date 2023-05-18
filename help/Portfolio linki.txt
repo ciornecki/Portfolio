@@ -24,3 +24,8 @@ website - ciornecki.github.io/GreenScape/
 Wordle - clone
 code - https://github.com/ciornecki/Wordle-clone
 website - https://ciornecki.github.io/Wordle-clone/
+
+
+fb - https://www.facebook.com/profile.php?id=100004570323793
+insta - https://www.instagram.com/ciorencki/
+gh - https://github.com/ciornecki
